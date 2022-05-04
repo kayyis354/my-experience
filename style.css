@@ -1,0 +1,11 @@
+.allBox{
+    display: flex;
+    align-content:center ;
+}
+.box{
+    background-color:blue;
+    color: chartreuse;
+    text-align: center;
+    width: 60px;
+    margin-left: 1px;
+}
